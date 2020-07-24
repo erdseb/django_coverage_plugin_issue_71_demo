@@ -1,2 +1,3 @@
 coverage
 Django
+django_coverage_plugin
